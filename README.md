@@ -11,13 +11,6 @@ Built with **Next.js**, **Material UI**, and deployed using **Render.com**.
 
 ---
 
-## 🚀 Live Demo
-
-Frontend: [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)  
-Backend API: [https://hf-backend-7t0n.onrender.com](https://hf-backend-7t0n.onrender.com)
-
----
-
 ## 📸 Features
 
 ✅ Upload any image with text  
@@ -55,7 +48,5 @@ ocr-summarizer/
 │   │   ├── UploadForm.tsx   # Main form UI
 │   │   ├── Navbar.tsx       # Navigation bar with logo
 │   │   └── summarize.tsx    # Calls backend summarizer API
-├── .env.local               # (Optional) Not used directly due to backend security
-├── tailwind.config.js       # Tailwind if used (optional)
 ├── package.json
 └── README.md
