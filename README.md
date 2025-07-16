@@ -50,3 +50,5 @@ ocr-summarizer/
 │   │   └── summarize.tsx    # Calls backend summarizer API
 ├── package.json
 └── README.md
+
+🌟 If you like this project, feel free to leave a star — it really helps and is much appreciated!
