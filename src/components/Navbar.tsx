@@ -9,7 +9,7 @@ const Navbar = () => {
     <AppBar position="static" color="transparent" elevation={0}>
       <Toolbar sx={{ justifyContent: "space-between", py: 2 }}>
         <Link href="/" style={{ textDecoration: "none", display: "flex", alignItems: "center" }}>
-          <Image src="/logo.jpg" alt="Logo" width={40} height={40} />
+          <Image src="/logo.JPG" alt="Logo" width={40} height={40} />
           <Typography variant="h6" sx={{ ml: 1, fontWeight: "bold", color: "#1a237e" }}>
             OCR Summarizer
           </Typography>
